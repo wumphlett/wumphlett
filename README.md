@@ -43,12 +43,12 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 ### 🛠️ My Projects
 > <a href="https://github.com/Wumphlett/Peoples-Advisor" target="_blank" style="text-decorations:none; color:inherit;">🗠 People's Advisor 🗠</a>
 > 
-> I've got very little interest in finance, so here's a project where I have to teach myself the fundamentals of a subject to code a product around it.
-> People's Advisor is an opensource platform meant to enable people with minimal coding experience to develop, test, and deploy algorithmic trading strategies.
+> **I've got very little interest in finance, so here's a project where I have to teach myself the fundamentals of a subject to code a product around it.**
+> **People's Advisor is an opensource platform meant to enable people with minimal coding experience to develop, test, and deploy algorithmic trading strategies.**
   
 > <a href="" target="_blank" style="text-decorations:none; color:inherit;">♘ (COMING SOON) Chess-Bot ♘</a>
 > 
-> Chess-Bot attempts to use ML to play chess online and not suck. Here's how its doing.
+> **Chess-Bot attempts to use ML to play chess online and not suck. Here's how its doing.**
 
 ### 📓 My Coursework
 > <a href="https://github.com/Wumphlett/COMP-1210" target="_blank" style="text-decorations:none; color:inherit;">COMP-1210 : _Fundamentals of Computing I_</a>
