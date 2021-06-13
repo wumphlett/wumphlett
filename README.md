@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Will Humphlett!
-<a href='https://www.linkedin.com/in/WillHumphlett/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> 
+<a href="https://www.linkedin.com/in/WillHumphlett/" target="_blank"><img align="left" alt="LinkedIn" height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://discordapp.com/users/yotta#4099/" target="_blank"><img align="left" alt="Discord" height="20px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <br/>
 I am a current student at Auburn University pursuing my undergraduate in Software Engineering. I love to experiment with and learn new tools as well as collaborate with others. 
@@ -23,15 +24,37 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="http://www.cplusplus.org/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
-<a href="https://html.spec.whatwg.org/" target="_blank"> <img align="left" alt="HTML" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank"> <img align="left" alt="CSS" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://www.cplusplus.org/" target="_blank"><img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height="42px" style="padding: 4px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/768px-Bash_Logo_Colored.svg.png"></a>
+<a href="https://html.spec.whatwg.org/" target="_blank"> <img align="left" alt="HTML" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"> <img align="left" alt="CSS" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img alt="Django" style="padding: 4px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" align="left" alt="git" height='42px'/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="Git" height='42px'/></a>
+<a href="https://docs.pytest.org/en/6.2.x/" target="_blank"> <img alt="Pytest" style="padding: 4px" src="https://bruhin.software/img/logos/pytest.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://www.docker.com/" target="_blank"> <img alt="Docker" style="padding: 2px" src="https://www.instana.com/media/01_INSTANA_IconSet_docker.svg" align="left" alt="git" height='42px'/></a>
 
 <br>
+<br>
+<br>
+
+### 🛠️ My Projects
+####<a href="https://github.com/Wumphlett/Peoples-Advisor" target="_blank" style="text-decorations:none; color:inherit;">🗠 People's Advisor 🗠</a>
+I've got very little interest in finance, so here's a project where I have to teach myself the fundamentals of a subject to code a product around it.
+People's Advisor is an opensource platform to allow people with minimum coding experience to develop, test, and deploy algorithmic trading strategies.
+  
+####<a href="" target="_blank" style="text-decorations:none; color:inherit;">♘ (COMING SOON) Chess-Bot ♘</a>
+Chess-Bot attempts to use ML to play chess online and not suck. Here's how its doing.
+
+### 📓 My Coursework
+####<a href="https://github.com/Wumphlett/COMP-1210" target="_blank" style="text-decorations:none; color:inherit;">COMP-1210 : _Fundamentals of Computing I_</a>
+####<a href="https://github.com/Wumphlett/COMP-2210" target="_blank" style="text-decorations:none; color:inherit;">COMP-2210 : _Fundamentals of Computing II_</a>
+####<a href="https://github.com/Wumphlett/COMP-2710" target="_blank" style="text-decorations:none; color:inherit;">COMP-2710 : _Software Construction_</a>
+####<a href="https://github.com/Wumphlett/COMP-3220" target="_blank" style="text-decorations:none; color:inherit;">COMP-3220 : _Principles of Programming Languages_</a>
+####<a href="https://github.com/Wumphlett/COMP-3350" target="_blank" style="text-decorations:none; color:inherit;">COMP-3350 : _Computer Organization and Assembly Language_</a>
+
 
 <!--
 ### 📊 Github Stats
@@ -42,9 +65,6 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 
 </a>
 <br>
-
-### 🛠️ My Projects
-TODO add section for personal projects
 
 TODO add section for coursework
 -!>
