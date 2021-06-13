@@ -3,7 +3,7 @@
 <a href="https://discordapp.com/users/yotta#4099/" target="_blank"><img align="left" alt="Discord" height="20px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <br/>
-I am a current student at Auburn University pursuing my undergraduate in Software Engineering. I love to experiment with and learn new tools as well as collaborate with others. 
+I am a current student at Auburn University pursuing my undergraduate in Software Engineering. I love to experiment with new tools and collaborate with others. 
 <br/>
 <br/>
 
@@ -13,9 +13,9 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 
 - 🔭 &nbsp; I’m currently working on **Chess-Bot**
 - 🤝 &nbsp; I’m looking to collaborate on [People's Advisor](https://github.com/Wumphlett/Peoples-Advisor)
-- 🌱 &nbsp; I’m currently learning HTML/CSS/JS; 
+- 🌱 &nbsp; I’m currently learning HTML/CSS/JS 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Wumphlett?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/WillHumphlett/)
 - 📝 &nbsp; Checkout my [resume](TODO)
 - 📓 &nbsp;&nbsp; Take a look at my coursework [below](https://github.com/Wumphlett#-my-coursework)
