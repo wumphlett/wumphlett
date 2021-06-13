@@ -18,7 +18,7 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/WillHumphlett/)
 - 📝 &nbsp; Checkout my [resume](TODO)
-- 📓 &nbsp;&nbsp; Take a look at my coursework below
+- 📓 &nbsp;&nbsp; Take a look at my coursework [below](https://github.com/Wumphlett#-my-coursework)
 - ✉️ &nbsp; Reach out to me at my [email](mailto:will@humphlett.net)
 
 <br>
@@ -41,19 +41,41 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 <br>
 
 ### 🛠️ My Projects
-####<a href="https://github.com/Wumphlett/Peoples-Advisor" target="_blank" style="text-decorations:none; color:inherit;">🗠 People's Advisor 🗠</a>
-I've got very little interest in finance, so here's a project where I have to teach myself the fundamentals of a subject to code a product around it.
-People's Advisor is an opensource platform to allow people with minimum coding experience to develop, test, and deploy algorithmic trading strategies.
+> <a href="https://github.com/Wumphlett/Peoples-Advisor" target="_blank" style="text-decorations:none; color:inherit;">🗠 People's Advisor 🗠</a>
+> 
+> I've got very little interest in finance, so here's a project where I have to teach myself the fundamentals of a subject to code a product around it.
+> People's Advisor is an opensource platform meant to enable people with minimum coding experience to develop, test, and deploy algorithmic trading strategies.
   
-####<a href="" target="_blank" style="text-decorations:none; color:inherit;">♘ (COMING SOON) Chess-Bot ♘</a>
-Chess-Bot attempts to use ML to play chess online and not suck. Here's how its doing.
+> <a href="" target="_blank" style="text-decorations:none; color:inherit;">♘ (COMING SOON) Chess-Bot ♘</a>
+> 
+> Chess-Bot attempts to use ML to play chess online and not suck. Here's how its doing.
 
 ### 📓 My Coursework
-####<a href="https://github.com/Wumphlett/COMP-1210" target="_blank" style="text-decorations:none; color:inherit;">COMP-1210 : _Fundamentals of Computing I_</a>
-####<a href="https://github.com/Wumphlett/COMP-2210" target="_blank" style="text-decorations:none; color:inherit;">COMP-2210 : _Fundamentals of Computing II_</a>
-####<a href="https://github.com/Wumphlett/COMP-2710" target="_blank" style="text-decorations:none; color:inherit;">COMP-2710 : _Software Construction_</a>
-####<a href="https://github.com/Wumphlett/COMP-3220" target="_blank" style="text-decorations:none; color:inherit;">COMP-3220 : _Principles of Programming Languages_</a>
-####<a href="https://github.com/Wumphlett/COMP-3350" target="_blank" style="text-decorations:none; color:inherit;">COMP-3350 : _Computer Organization and Assembly Language_</a>
+> <a href="https://github.com/Wumphlett/COMP-1210" target="_blank" style="text-decorations:none; color:inherit;">COMP-1210 : _Fundamentals of Computing I_</a>
+> 
+> <a href="https://github.com/Wumphlett/COMP-2210" target="_blank" style="text-decorations:none; color:inherit;">COMP-2210 : _Fundamentals of Computing II_</a>
+> 
+> <a href="https://github.com/Wumphlett/COMP-2710" target="_blank" style="text-decorations:none; color:inherit;">COMP-2710 : _Software Construction_</a>
+> 
+> <a href="https://github.com/Wumphlett/COMP-3220" target="_blank" style="text-decorations:none; color:inherit;">COMP-3220 : _Principles of Programming Languages_</a>
+> 
+> <a href="https://github.com/Wumphlett/COMP-3350" target="_blank" style="text-decorations:none; color:inherit;">COMP-3350 : _Computer Organization and Assembly Language_</a>
+> 
+> **NEXT SEMESTER** COMP-3270 : _Intro to Algorithms_
+> 
+> **NEXT SEMESTER** COMP-3500 : _Intro to Operating Systems_
+> 
+> **NEXT SEMESTER** COMP-3700 : _Software Modeling and Design_
+> 
+> **COMING SOON** COMP-4300 : _Computer Architecture_
+> 
+> **COMING SOON** COMP-4320 : _Intro to Computer Networks_
+> 
+> **COMING SOON** COMP-5700 : _Software Process_
+> 
+> **COMING SOON** COMP-5710 : _Software Quality Assurance_
+> 
+> **COMING SOON** COMP-???? : _A Whole Bunch of Electives_
 
 
 <!--
