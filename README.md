@@ -1,6 +1,6 @@
-## Hey 👋, I'm Will Humphlett!
-<a href="https://www.linkedin.com/in/WillHumphlett/" target="_blank"><img align="left" alt="LinkedIn" height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://discordapp.com/users/yotta#4099/" target="_blank"><img align="left" alt="Discord" height="20px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+## Hello hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Will Humphlett!
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/WillHumphlett/)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yotta#4099/)
 
 <br/>
 I am a current student at Auburn University pursuing my undergraduate in Software Engineering. I love to experiment with new tools and collaborate with others. 
@@ -17,9 +17,9 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Wumphlett?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/WillHumphlett/)
-- 📝 &nbsp; Checkout my [resume](TODO)
-- 📓 &nbsp;&nbsp; Take a look at my coursework [below](https://github.com/Wumphlett#-my-coursework)
-- ✉️ &nbsp; Reach out to me at my [email](mailto:will@humphlett.net)
+- 📜 &nbsp; Checkout my [resume](TODO)
+- 🏫 &nbsp;&nbsp; Take a look at my coursework [below](https://github.com/Wumphlett#-my-coursework)
+- 📧️ &nbsp; Reach out to me at my [email](mailto:will@humphlett.net)
 
 <br>
 
@@ -41,12 +41,12 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 <br>
 
 ### 🛠️ My Projects
-> <a href="https://github.com/Wumphlett/Peoples-Advisor" target="_blank" style="text-decorations:none; color:inherit;">🗠 People's Advisor 🗠</a>
+> <a href="https://github.com/Wumphlett/Peoples-Advisor" target="_blank" style="text-decorations:none; color:inherit;">📈 People's Advisor 📉</a>
 > 
 > **I've got very little interest in finance, so here's a project where I have to teach myself the fundamentals of a subject to code a product around it.**
 > **People's Advisor is an opensource platform meant to enable people with minimal coding experience to develop, test, and deploy algorithmic trading strategies.**
   
-> <a href="" target="_blank" style="text-decorations:none; color:inherit;">♘ (COMING SOON) Chess-Bot ♘</a>
+> <a href="" target="_blank" style="text-decorations:none; color:inherit;">♟️ (COMING SOON) Chess-Bot ♟️</a>
 > 
 > **Chess-Bot attempts to use ML to play chess online and not suck. Here's how its doing.**
 
