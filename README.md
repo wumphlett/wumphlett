@@ -27,14 +27,14 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://www.cplusplus.org/" target="_blank"><img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height="42px" style="padding: 4px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/768px-Bash_Logo_Colored.svg.png"></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash-colored.svg"></a>
 <a href="https://html.spec.whatwg.org/" target="_blank"> <img align="left" alt="HTML" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img align="left" alt="CSS" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img alt="Django" style="padding: 4px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" align="left" alt="git" height='42px'/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="Git" height='42px'/></a>
-<a href="https://docs.pytest.org/en/6.2.x/" target="_blank"> <img alt="Pytest" style="padding: 4px" src="https://bruhin.software/img/logos/pytest.svg" align="left" alt="git" height='42px'/></a>
-<a href="https://www.docker.com/" target="_blank"> <img alt="Docker" style="padding: 2px" src="https://www.instana.com/media/01_INSTANA_IconSet_docker.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://docs.pytest.org/en/6.2.x/" target="_blank"> <img alt="Pytest" style="padding: 4px" src="https://bruhin.software/img/logos/pytest.svg" align="left" height='42px'/></a>
+<a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" align="left"/></a>
 
 <br>
 <br>
