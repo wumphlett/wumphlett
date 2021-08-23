@@ -60,11 +60,11 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 > 
 > <a href="https://github.com/Wumphlett/COMP-3350" target="_blank" style="text-decorations:none; color:inherit;">COMP-3350 : _Computer Organization and Assembly Language_</a>
 > 
-> **NEXT SEMESTER** COMP-3270 : _Intro to Algorithms_
+> <a href="https://github.com/Wumphlett/COMP-3270" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3270 : _Intro to Algorithms_</a>
 > 
-> **NEXT SEMESTER** COMP-3500 : _Intro to Operating Systems_
+> <a href="https://github.com/Wumphlett/COMP-3500" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3500 : _Intro to Operating Systems_</a>
 > 
-> **NEXT SEMESTER** COMP-3700 : _Software Modeling and Design_
+> <a href="https://github.com/Wumphlett/COMP-3700" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3700 : _Software Modeling and Design_</a>
 > 
 > **COMING SOON** COMP-4300 : _Computer Architecture_
 > 
