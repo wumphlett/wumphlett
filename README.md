@@ -12,13 +12,13 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Chess-Bot**
-- 🤝 &nbsp; I’m looking to collaborate on [People's Advisor](https://github.com/Wumphlett/Peoples-Advisor)
+- 🤝 &nbsp; I’m looking to collaborate on [People's Advisor](https://github.com/wumphlett/Peoples-Advisor)
 - 🌱 &nbsp; I’m currently learning HTML/CSS/JS 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Wumphlett?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wumphlett?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/WillHumphlett/)
 - 📜 &nbsp; Checkout my [resume](TODO)
-- 🏫 &nbsp; Take a look at my coursework [below](https://github.com/Wumphlett#-my-coursework)
+- 🏫 &nbsp; Take a look at my coursework [below](https://github.com/wumphlett#-my-coursework)
 - 📧️ &nbsp; Reach out to me at my [email](mailto:will@humphlett.net)
 
 <br>
@@ -41,7 +41,7 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 <br>
 
 ### 🛠️ My Projects
-> <a href="https://github.com/Wumphlett/Peoples-Advisor" target="_blank" style="text-decorations:none; color:inherit;">📈 People's Advisor 📉</a>
+> <a href="https://github.com/wumphlett/Peoples-Advisor" target="_blank" style="text-decorations:none; color:inherit;">📈 People's Advisor 📉</a>
 > 
 > **People's Advisor is an opensource platform that enables users with varying coding experience to develop, test, and deploy algorithmic trading strategies.**
   
@@ -50,21 +50,21 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 > **Chess-Bot attempts to use ML to play chess online and not suck. Here's how its doing.**
 
 ### 📓 My Coursework
-> <a href="https://github.com/Wumphlett/COMP-1210" target="_blank" style="text-decorations:none; color:inherit;">COMP-1210 : _Fundamentals of Computing I_</a>
+> <a href="https://github.com/wumphlett/COMP-1210" target="_blank" style="text-decorations:none; color:inherit;">COMP-1210 : _Fundamentals of Computing I_</a>
 > 
-> <a href="https://github.com/Wumphlett/COMP-2210" target="_blank" style="text-decorations:none; color:inherit;">COMP-2210 : _Fundamentals of Computing II_</a>
+> <a href="https://github.com/wumphlett/COMP-2210" target="_blank" style="text-decorations:none; color:inherit;">COMP-2210 : _Fundamentals of Computing II_</a>
 > 
-> <a href="https://github.com/Wumphlett/COMP-2710" target="_blank" style="text-decorations:none; color:inherit;">COMP-2710 : _Software Construction_</a>
+> <a href="https://github.com/wumphlett/COMP-2710" target="_blank" style="text-decorations:none; color:inherit;">COMP-2710 : _Software Construction_</a>
 > 
-> <a href="https://github.com/Wumphlett/COMP-3220" target="_blank" style="text-decorations:none; color:inherit;">COMP-3220 : _Principles of Programming Languages_</a>
+> <a href="https://github.com/wumphlett/COMP-3220" target="_blank" style="text-decorations:none; color:inherit;">COMP-3220 : _Principles of Programming Languages_</a>
 > 
-> <a href="https://github.com/Wumphlett/COMP-3350" target="_blank" style="text-decorations:none; color:inherit;">COMP-3350 : _Computer Organization and Assembly Language_</a>
+> <a href="https://github.com/wumphlett/COMP-3350" target="_blank" style="text-decorations:none; color:inherit;">COMP-3350 : _Computer Organization and Assembly Language_</a>
 > 
-> <a href="https://github.com/Wumphlett/COMP-3270" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3270 : _Intro to Algorithms_</a>
+> <a href="https://github.com/wumphlett/COMP-3270" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3270 : _Intro to Algorithms_</a>
 > 
-> <a href="https://github.com/Wumphlett/COMP-3500" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3500 : _Intro to Operating Systems_</a>
+> <a href="https://github.com/wumphlett/COMP-3500" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3500 : _Intro to Operating Systems_</a>
 > 
-> <a href="https://github.com/Wumphlett/COMP-3700" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3700 : _Software Modeling and Design_</a>
+> <a href="https://github.com/wumphlett/COMP-3700" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3700 : _Software Modeling and Design_</a>
 > 
 > **COMING SOON** COMP-4300 : _Computer Architecture_
 > 
@@ -79,10 +79,10 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 
 <!--
 ### 📊 Github Stats
-<a href='https://github.com/Wumphlett/github-stats-transparent'>
+<a href='https://github.com/wumphlett/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/Wumphlett/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Wumphlett/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/wumphlett/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/wumphlett/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 <br>
