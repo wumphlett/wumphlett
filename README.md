@@ -17,7 +17,7 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wumphlett?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/WillHumphlett/)
-- 📜 &nbsp; Checkout my [resume](TODO)
+- 📜 &nbsp; Checkout my [resume](https://docs.google.com/document/d/14O-f6pTN8ExfE0pcXNRJtziLYiOzUogg/edit?usp=sharing&ouid=104791037895000841827&rtpof=true&sd=true)
 - 🏫 &nbsp; Take a look at my coursework [below](https://github.com/wumphlett#-my-coursework)
 - 📧️ &nbsp; Reach out to me at my [email](mailto:will@humphlett.net)
 
