@@ -64,13 +64,13 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 > 
 > <a href="https://github.com/wumphlett/COMP-3500" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3500 : _Intro to Operating Systems_</a>
 > 
-> <a href="https://github.com/wumphlett/COMP-3700" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3700 : _Software Modeling and Design_</a>
+> <a href="https://github.com/wumphlett/COMP-3700" target="_blank" style="text-decorations:none; color:inherit;">COMP-3700 : _Software Modeling and Design_</a>
 > 
-> **COMING SOON** COMP-4300 : _Computer Architecture_
+> <a href="https://github.com/wumphlett/COMP-4300" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-4300 :_Computer Architecture_</a>
 > 
-> **COMING SOON** COMP-4320 : _Intro to Computer Networks_
+> <a href="https://github.com/wumphlett/COMP-4320" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-4320 :_Intro to Computer Networks_</a>
 > 
-> **COMING SOON** COMP-5700 : _Software Process_
+> <a href="https://github.com/wumphlett/COMP-5700" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-5700 :_Software Process_</a>
 > 
 > **COMING SOON** COMP-5710 : _Software Quality Assurance_
 > 
