@@ -60,7 +60,7 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 > 
 > <a href="https://github.com/wumphlett/COMP-3350" target="_blank" style="text-decorations:none; color:inherit;">COMP-3350 : _Computer Organization and Assembly Language_</a>
 > 
-> <a href="https://github.com/wumphlett/COMP-3270" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3270 : _Intro to Algorithms_</a>
+> <a href="https://github.com/wumphlett/COMP-3270" target="_blank" style="text-decorations:none; color:inherit;">COMP-3270 : _Intro to Algorithms_</a>
 > 
 > <a href="https://github.com/wumphlett/COMP-3500" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-3500 : _Intro to Operating Systems_</a>
 > 
