@@ -68,11 +68,19 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 > 
 > <a href="https://github.com/wumphlett/COMP-4300" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-4300 : _Computer Architecture_</a>
 > 
-> <a href="https://github.com/wumphlett/COMP-4320" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-4320 : _Intro to Computer Networks_</a>
+> <a href="https://github.com/wumphlett/COMP-4320" target="_blank" style="text-decorations:none; color:inherit;">COMP-4320 :_Intro to Computer Networks_</a>
+>
+> **COMING SOON** COMP-4710 : _Senior Design_
+>
+> **COMING NEXT** COMP-5120 : _Database Systems_
 > 
-> <a href="https://github.com/wumphlett/COMP-5700" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-5700 : _Software Process_</a>
+> <a href="https://github.com/wumphlett/COMP-5700" target="_blank" style="text-decorations:none; color:inherit;">COMP-5700 :_Software Process_</a>
+>
+> **COMING NEXT** COMP-5600 : _Artificial Intelligence_
+>
+> **COMING NEXT** COMP-5660 : _Evolutionary Computing_
 > 
-> **COMING SOON** COMP-5710 : _Software Quality Assurance_
+> **COMING NEXT** COMP-5710 : _Software Quality Assurance_
 > 
 > **COMING SOON** COMP-???? : _A Whole Bunch of Electives_
 
