@@ -66,7 +66,7 @@ I am a current student at Auburn University pursuing my undergraduate in Softwar
 > 
 > <a href="https://github.com/wumphlett/COMP-3700" target="_blank" style="text-decorations:none; color:inherit;">COMP-3700 : _Software Modeling and Design_</a>
 > 
-> <a href="https://github.com/wumphlett/COMP-4300" target="_blank" style="text-decorations:none; color:inherit;">**IN PROGRESS** COMP-4300 : _Computer Architecture_</a>
+> <a href="https://github.com/wumphlett/COMP-4300" target="_blank" style="text-decorations:none; color:inherit;">COMP-4300 : _Computer Architecture_</a>
 > 
 > <a href="https://github.com/wumphlett/COMP-4320" target="_blank" style="text-decorations:none; color:inherit;">COMP-4320 : _Intro to Computer Networks_</a>
 >
