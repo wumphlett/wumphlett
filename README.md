@@ -1,4 +1,6 @@
-## Hello hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Will Humphlett!
+[![Personal Site](./dark-mode.png#gh-dark-mode-only)](https://willhumphlett.com/)
+[![Personal Site](./light-mode.png#gh-light-mode-only)](https://willhumphlett.com/)
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/WillHumphlett/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yotta#4099/)
 
