@@ -1,5 +1,4 @@
-![Personal Site](./dark-mode.png#gh-dark-mode-only)
-![Personal Site](./light-mode.png#gh-light-mode-only)
+[![Personal Site](./light-mode.png#gh-light-mode-only) ![Personal Site](./dark-mode.png#gh-dark-mode-only)](http://willhumphlett.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/WillHumphlett/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yotta#4099/)
