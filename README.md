@@ -1,4 +1,4 @@
-![Personal Site](./dark-mode.png|href=https://willhumphlett.com#gh-dark-mode-only)
+![Personal Site](./dark-mode.png#gh-dark-mode-only)
 ![Personal Site](./light-mode.png#gh-light-mode-only)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/WillHumphlett/)
