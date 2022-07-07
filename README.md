@@ -26,7 +26,8 @@ Please don't hesitate to reach out if you have any questions!
 <a href="https://www.python.org" target="_blank">[Python]</a> <a href="https://go.dev/" target="_blank">[Golang]</a> <a href="https://www.cplusplus.org/" target="_blank">[C++]</a> <a href="https://www.gnu.org/software/bash/" target="_blank">[Bash]</a> <a href="https://html.spec.whatwg.org/" target="_blank">[HTML/CSS]</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">[JS]</a> <a href="https://git-scm.com/" target="_blank">[Git]</a> <a href="https://www.docker.com/" target="_blank">[Docker]</a>
 
 # Projects
-<a href="https://github.com/wumphlett/Peoples-Advisor" target="_blank">[People's Advisor]</a> - an opensource platform that enables users with varying amounts of coding experience to develop, test, and deploy algorithmic trading strategies.
+<a href="https://github.com/wumphlett/Peoples-Advisor" target="_blank">[People's Advisor]</a> - an opensource platform that enables users with varying amounts of coding experience
+to develop, test, and deploy algorithmic trading strategies.
 
 Coming Soon: Chess Bot - attempts to use ML to play chess online and not suck.
 
