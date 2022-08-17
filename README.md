@@ -42,34 +42,15 @@ Coming Soon: Chess Bot - attempts to use ML to play chess online and not suck.
 <a href="https://github.com/wumphlett/COMP-4300" target="_blank">[COMP-4300]</a> - Computer Architecture
 <a href="https://github.com/wumphlett/COMP-4320" target="_blank">[COMP-4320]</a> - Intro to Computer Networks
 Coming Soon: [COMP-4710] - Senior Design
-Coming NEXT: [COMP 5120] - Database Systems
+<a href="https://github.com/wumphlett/COMP-5120" target="_blank">[COMP-5120]</a> - In Progress: Database Systems
+<a href="https://github.com/wumphlett/COMP-5630" target="_blank">[COMP-5630]</a> - In Progress: Machine Learning
+<a href="https://github.com/wumphlett/COMP-5660" target="_blank">[COMP-5660]</a> - In Progress: Evolutionary Computing
 <a href="https://github.com/wumphlett/COMP-5700" target="_blank">[COMP-5700]</a> - Software Process
-Coming NEXT: [COMP-5630] - Machine Learning
-Coming NEXT: [COMP-5660] - Evolutionary Computing
-Coming NEXT: [COMP-5710] - Software Quality Assurance
+<a href="https://github.com/wumphlett/COMP-5710" target="_blank">[COMP-5710]</a> - In Progress: Software Quality Assurance
 Coming Soon: [????-????] - Unknown Electives
 </pre>
 
 <!--
-<pre>
-.?7!!!!!7!!~^:.
-   .P:     ..:^~!77!:
-    7J            .^7?~
-     ??.             .7J^
-      !J~.             :J7
-       .!J^              J?
-        .~P7~^:.          5~
-     :!77~^^^~!?7.        ~5
-    !J^.   ::.  ~Y.       .5.
-   7?    ^J!~7?  ??       .5.
-  :5.    5~  !J  J7       !J
-  ^5     !J~:~:^??.      :5:
-  .5:     :~!!!~:       ~Y^
-   ^Y^                :??.
-    :??~.         .:~77^
-      :~77!!!!!!!77!^.
-         ..:::::..
-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣾⣿⣿⣿⠀⢸⣿⣿⣿⣿⣶⣶⣤⣀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢀⣴⡇⢀⣾⣿⣿⣿⣿⣿⠀⣾⣿⣿⣿⣿⣿⣿⣿⠿⠓⠀⠀⠀⠀
@@ -83,5 +64,4 @@ Coming Soon: [????-????] - Unknown Electives
 ⠀⠀⠀⠛⠀⣿⡟⠀⢻⣿⡄⠸⣿⣿⣿⣿⣿⣿⣿⡀⠘⣿⣿⣿⣿⠟⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⣿⠇⠀⠀⢻⡿⠀⠈⠻⣿⣿⣿⣿⣿⡇⠀⢹⣿⠿⠋⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠋⠀⠀⠀⡘⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀
-</pre>
 -->
