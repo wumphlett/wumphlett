@@ -41,13 +41,14 @@ Coming Soon: Chess Bot - attempts to use ML to play chess online and not suck.
 <a href="https://github.com/wumphlett/COMP-3700" target="_blank">[COMP-3700]</a> - Software Modeling and Design
 <a href="https://github.com/wumphlett/COMP-4300" target="_blank">[COMP-4300]</a> - Computer Architecture
 <a href="https://github.com/wumphlett/COMP-4320" target="_blank">[COMP-4320]</a> - Intro to Computer Networks
-Coming Soon: [COMP-4710] - Senior Design
-<a href="https://github.com/wumphlett/COMP-5120" target="_blank">[COMP-5120]</a> - In Progress: Database Systems
-<a href="https://github.com/wumphlett/COMP-5630" target="_blank">[COMP-5630]</a> - In Progress: Machine Learning
-<a href="https://github.com/wumphlett/COMP-5660" target="_blank">[COMP-5660]</a> - In Progress: Evolutionary Computing
+Coming NEXT: [COMP-4710] - Senior Design
+<a href="https://github.com/wumphlett/COMP-5120" target="_blank">[COMP-5120]</a> - Database Systems
+Coming NEXT: [COMP-5130] - Data Mining
+Coming NEXT: [COMP-5530] - Secure Cloud Computing
+<a href="https://github.com/wumphlett/COMP-5630" target="_blank">[COMP-5630]</a> - Machine Learning
+<a href="https://github.com/wumphlett/COMP-5660" target="_blank">[COMP-5660]</a> - Evolutionary Computing
 <a href="https://github.com/wumphlett/COMP-5700" target="_blank">[COMP-5700]</a> - Software Process
-<a href="https://github.com/wumphlett/COMP-5710" target="_blank">[COMP-5710]</a> - In Progress: Software Quality Assurance
-Coming Soon: [????-????] - Unknown Electives
+<a href="https://github.com/wumphlett/COMP-5710" target="_blank">[COMP-5710]</a> - Software Quality Assurance
 </pre>
 
 <!--
