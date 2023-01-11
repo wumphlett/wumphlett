@@ -44,7 +44,7 @@ Coming Soon: Chess Bot - attempts to use ML to play chess online and not suck.
 Coming NEXT: [COMP-4710] - Senior Design
 <a href="https://github.com/wumphlett/COMP-5120" target="_blank">[COMP-5120]</a> - Database Systems
 <a href="https://github.com/wumphlett/COMP-5130" target="_blank">[COMP-5630]</a> - In Progress: Data Mining
-<a href="https://github.com/wumphlett/COMP-5530" target="_blank">[COMP-5630]</a> - Secure Cloud Computing
+<a href="https://github.com/wumphlett/COMP-5530" target="_blank">[COMP-5630]</a> - In Progress: Secure Cloud Computing
 <a href="https://github.com/wumphlett/COMP-5630" target="_blank">[COMP-5630]</a> - Machine Learning
 <a href="https://github.com/wumphlett/COMP-5660" target="_blank">[COMP-5660]</a> - Evolutionary Computing
 <a href="https://github.com/wumphlett/COMP-5700" target="_blank">[COMP-5700]</a> - Software Process
