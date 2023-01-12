@@ -41,7 +41,7 @@ Coming Soon: Chess Bot - attempts to use ML to play chess online and not suck.
 <a href="https://github.com/wumphlett/COMP-3700" target="_blank">[COMP-3700]</a> - Software Modeling and Design
 <a href="https://github.com/wumphlett/COMP-4300" target="_blank">[COMP-4300]</a> - Computer Architecture
 <a href="https://github.com/wumphlett/COMP-4320" target="_blank">[COMP-4320]</a> - Intro to Computer Networks
-Coming NEXT: [COMP-4710] - Senior Design
+<a href="https://github.com/wumphlett/Attendance-Tracker" target="_blank">[COMP-4710]</a> - In Progress: Senior Design
 <a href="https://github.com/wumphlett/COMP-5120" target="_blank">[COMP-5120]</a> - Database Systems
 <a href="https://github.com/wumphlett/COMP-5130" target="_blank">[COMP-5130]</a> - In Progress: Data Mining
 <a href="https://github.com/wumphlett/COMP-5530" target="_blank">[COMP-5530]</a> - In Progress: Secure Cloud Computing
