@@ -2,9 +2,9 @@
 ![Personal Site](./light-mode.png#gh-light-mode-only)
 
 <pre>
-<a href="https://willhumphlett.com/">[Personal Site]</a> <a href="https://www.linkedin.com/in/WillHumphlett/">[LinkedIn]</a> <a href="https://discordapp.com/users/yotta#4099/">[Discord]</a>
+<a href="https://willhumphlett.com/">[Personal Site]</a> <a href="https://www.linkedin.com/in/WillHumphlett/">[LinkedIn]</a> <a href="https://discordapp.com/users/everym4n/">[Discord]</a> <a href="mailto:will@humphlett.net">[Email]</a>
 
-I am a current student at Auburn University pursuing my undergrad in software engineering.
+I am a software engineer working at Roblox.
 Please don't hesitate to reach out if you have any questions!
 
 
@@ -48,6 +48,10 @@ Coming Soon: Chess Bot - attempts to use ML to play chess online and not suck.
 <a href="https://github.com/wumphlett/COMP-5700" target="_blank">[COMP-5700]</a> - Software Process
 <a href="https://github.com/wumphlett/COMP-5710" target="_blank">[COMP-5710]</a> - Software Quality Assurance
 </pre>
+
+## Notes on coursework
+This is my final course list as I'm no longer an undergrad. 
+That said if you've got any questions, please don't hesitate to reach out at my email or discord linked above!
 
 <!--
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
